@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Shivansh07
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Linux,Python
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently learning AWS, Azure, Linux
 
 
 <!---
